@@ -105,5 +105,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 - **Emmanuelah Damilola**
-- [GitHub Profile](https://github.com/your-username)
-- [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- [GitHub Profile](https://github.com/Emmanuelahdamilola)
+- [LinkedIn Profile](https://www.linkedin.com/in/damilola-emmanuelah/)
