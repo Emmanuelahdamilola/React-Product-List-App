@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import ProductListItems from './productListItems';
-import './productLists.css'
+import ProductListItems from './ProductListItems'
+import './ProductLists.css'
 
 // ProductList component - Fetches products from API and displays them
 const ProductList = () => {
